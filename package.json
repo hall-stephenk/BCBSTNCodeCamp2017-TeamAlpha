@@ -1,0 +1,26 @@
+{
+  "name": "codecamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "eslint": "^4.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-google": "^0.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hall-stephenk/BCBSTNCodeCamp2017-TeamAlpha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hall-stephenk/BCBSTNCodeCamp2017-TeamAlpha/issues"
+  },
+  "homepage": "https://github.com/hall-stephenk/BCBSTNCodeCamp2017-TeamAlpha#readme"
+}
