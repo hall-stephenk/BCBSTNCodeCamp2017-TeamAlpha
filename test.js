@@ -19,3 +19,5 @@ var testMe = 'this';
 
 console.log('Hello world!');
 console.log('Value of testMe = ' + testMe);
+
+process.exit(0);
