@@ -1,6 +1,6 @@
 'use strict';
 
-var testMe = 'this';
+var testMe = 'this is a test string';
 
 // const readline = require('readline');
 
