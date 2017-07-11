@@ -1,11 +1,36 @@
 'use strict';
 
-var bot = null;
+// --------------------------------------
+// BEGIN CODING HERE
+// --------------------------------------
 
-exports.registerBot = function(theBot) {
-        bot = theBot;
-    };
+var botName = 'Slack Bot 1';
 
-exports.messageCallback = function(data) {
-    console.log(data);
-};
+function messageReceived(bot, msg) {
+    return 'Fascinating...';
+}
+
+// --------------------------------------
+// END CODING HERE
+// --------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exports.messageReceived = messageReceived;
+exports.botName = botName;

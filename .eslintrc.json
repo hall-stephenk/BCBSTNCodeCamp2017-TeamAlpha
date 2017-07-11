@@ -6,7 +6,10 @@
     "rules": {
         "linebreak-style" : ["error", "windows"],
         "no-undef" : "error",
-        "no-var" : "off"
+        "no-var" : "off",
+        "require-jsdoc": "off",
+        "max-len": "off",
+        "no-multiple-empty-lines": "off"
     },
     "env": {
         "node" : true
