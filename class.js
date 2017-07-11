@@ -7,7 +7,11 @@
 var botName = 'Slack Bot 1';
 
 function messageReceived(bot, msg) {
-    return 'Fascinating...';
+    if (msg.toLowerCase().includes('what')) {
+        return 'Why not?';
+    } else {
+        return 'Fascinating...';
+    }
 }
 
 // --------------------------------------
