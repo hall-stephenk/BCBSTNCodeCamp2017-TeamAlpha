@@ -6,12 +6,16 @@
 
 var botName = 'Slack Bot 1';
 
-function messageReceived(bot, msg) {
-    if (msg.toLowerCase().includes('what')) {
+function messageReceived(msg) {
+    if (msg.includes('what')) {
         return 'Why not?';
     } else {
         return 'Fascinating...';
     }
+}
+
+function youAreBored(data) {
+    return '...';
 }
 
 // --------------------------------------
@@ -37,4 +41,5 @@ function messageReceived(bot, msg) {
 
 
 exports.messageReceived = messageReceived;
+exports.youAreBored = youAreBored;
 exports.botName = botName;
