@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 'use strict'; // I was here!
+=======
+'use strict'; // somebody else changed this!
+>>>>>>> c08b81057331be5f54ce909aa630f245e2cf35a7
 
 // --------------------------------------
 // BEGIN CODING HERE
