@@ -1,4 +1,4 @@
-'use strict';
+'use strict'; // somebody else changed this!
 
 // --------------------------------------
 // BEGIN CODING HERE
