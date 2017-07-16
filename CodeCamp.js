@@ -4,6 +4,7 @@
 // BEGIN CODING HERE
 // --------------------------------------
 
+// this is the name of your bot on Slack as it's seen by other users
 var botName = 'Slack Bot 1';
 
 function messageReceived(msg) {
