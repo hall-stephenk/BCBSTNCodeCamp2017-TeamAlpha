@@ -15,7 +15,7 @@ function messageReceived(msg) {
 }
 
 function youAreBored(data) {
-    return '...';
+    return 'Anybody there?';
 }
 
 // --------------------------------------
