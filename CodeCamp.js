@@ -1,4 +1,4 @@
-'use strict'; // Person  2
+'use strict'; // Person 2
 
 // --------------------------------------
 // BEGIN CODING HERE
