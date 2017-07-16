@@ -1,5 +1,5 @@
-'use strict'; // Person  2
-
+'use strict';
+// I was here! (person 2)
 // --------------------------------------
 // BEGIN CODING HERE
 // --------------------------------------
